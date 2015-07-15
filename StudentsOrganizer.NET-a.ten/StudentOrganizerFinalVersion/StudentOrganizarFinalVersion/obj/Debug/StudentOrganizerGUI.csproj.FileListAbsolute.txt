@@ -1,0 +1,154 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.LogIn.resources
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Properties.Resources.resources
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csproj.GenerateResource.Cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe.licenses
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Create.resources
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.MainPage.resources
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Common.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Core.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Interop.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.VSCore.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Decompiler.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Localization.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.MetaData.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Parser.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Platform.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.IntelliRush.Core.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Mvvm.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Common.xml
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Core.xml
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.VSCore.xml
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.MetaData.xml
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Parser.xml
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.List.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe.config
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.dll
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.dll
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csprojResolveAssemblyReference.cache
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Create.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.List.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.LogIn.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.MainPage.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Properties.Resources.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csproj.GenerateResource.Cache
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe.licenses
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe.config
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csprojResolveAssemblyReference.cache
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Create.resources
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.List.resources
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.LogIn.resources
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.MainPage.resources
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Properties.Resources.resources
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csproj.GenerateResource.Cache
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe.licenses
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.EditStudent.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.EditStudent.resources
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.EditEvent.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe.config
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.exe
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizarFinalVersion.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Common.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Core.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Interop.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.VSCore.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Decompiler.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Localization.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.MetaData.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Parser.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Platform.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.IntelliRush.Core.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Mvvm.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Mvvm.UI.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\ClassLibrary1.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\StudentOrganizerDBOp.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Common.xml
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.Core.xml
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.StructuralParser.xml
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.CodeRush.VSCore.xml
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.MetaData.xml
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\bin\Debug\DevExpress.DXCore.Parser.xml
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csprojResolveAssemblyReference.cache
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Create.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.EditEvent.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.EditStudent.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.List.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.LogIn.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.MainPage.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.Properties.Resources.resources
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizerGUI.csproj.GenerateResource.Cache
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizarFinalVersion\obj\Debug\StudentOrganizarFinalVersion.exe.licenses

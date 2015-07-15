@@ -1,0 +1,22 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\ClassLibrary1\obj\Debug\StudentOrganizer.BO.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Work\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\Work\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Work\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Work\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Work\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Practica\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\Practica\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Practica\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Practica\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\StudentOrganizer.BO.csprojResolveAssemblyReference.cache
+D:\Practica\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Practica\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

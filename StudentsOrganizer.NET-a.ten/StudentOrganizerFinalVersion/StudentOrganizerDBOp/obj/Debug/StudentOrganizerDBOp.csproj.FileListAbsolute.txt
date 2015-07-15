@@ -1,0 +1,28 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.dll
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\StudentOrganizarFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.dll
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.dll
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.pdb
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.csprojResolveAssemblyReference.cache
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.dll
+D:\Work\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.csprojResolveAssemblyReference.cache
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.dll
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.pdb
+D:\Practica\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\StudentOrganizerDBOp.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\bin\Debug\ClassLibrary1.pdb
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.csprojResolveAssemblyReference.cache
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.dll
+D:\Practica\StudentsOrganizer.NET-a.ten\StudentOrganizerFinalVersion\StudentOrganizerDBOp\obj\Debug\StudentOrganizerDBOp.pdb
