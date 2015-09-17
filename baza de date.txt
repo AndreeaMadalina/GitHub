@@ -1,0 +1,162 @@
+USE [MovieDatabase]
+GO
+
+/****** Object:  Table [dbo].[Actor]    Script Date: 9/17/2015 5:47:54 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Actor](
+	[ActorID] [int] IDENTITY(1,1) NOT NULL,
+	[FirstName] [varchar](50) NOT NULL,
+	[LastName] [varchar](50) NOT NULL,
+	[DateOfBirth] [date] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ActorID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+USE [MovieDatabase]
+GO
+
+/****** Object:  Table [dbo].[Movie]    Script Date: 9/17/2015 5:48:13 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Movie](
+	[MovieID] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [varchar](70) NOT NULL,
+	[Genre] [varchar](50) NOT NULL,
+	[ReleaseYear] [int] NOT NULL,
+	[DirectorName] [varchar](70) NOT NULL,
+	[Storyline] [varchar](2000) NULL,
+	[Country] [varchar](50) NOT NULL,
+	[Language] [varchar](20) NOT NULL,
+	[Runtime] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[MovieID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+USE [MovieDatabase]
+GO
+
+/****** Object:  Table [dbo].[MovieActor]    Script Date: 9/17/2015 5:48:48 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[MovieActor](
+	[MovieActorID] [int] IDENTITY(1,1) NOT NULL,
+	[MovieID] [int] NOT NULL,
+	[ActorID] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[MovieActorID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[MovieActor]  WITH CHECK ADD FOREIGN KEY([ActorID])
+REFERENCES [dbo].[Actor] ([ActorID])
+GO
+
+ALTER TABLE [dbo].[MovieActor]  WITH CHECK ADD FOREIGN KEY([MovieID])
+REFERENCES [dbo].[Movie] ([MovieID])
+GO
+
+
+USE [MovieDatabase]
+GO
+
+/****** Object:  Table [dbo].[Rating]    Script Date: 9/17/2015 5:49:10 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Rating](
+	[RatingID] [int] IDENTITY(1,1) NOT NULL,
+	[Rating] [decimal](2, 1) NULL,
+	[MovieID] [int] NOT NULL,
+	[UserID] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[RatingID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[Rating]  WITH CHECK ADD FOREIGN KEY([MovieID])
+REFERENCES [dbo].[Movie] ([MovieID])
+GO
+
+ALTER TABLE [dbo].[Rating]  WITH CHECK ADD FOREIGN KEY([UserID])
+REFERENCES [dbo].[User] ([UserID])
+GO
+
+
+USE [MovieDatabase]
+GO
+
+/****** Object:  Table [dbo].[User]    Script Date: 9/17/2015 5:49:30 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[User](
+	[UserID] [int] IDENTITY(1,1) NOT NULL,
+	[Username] [varchar](20) NOT NULL,
+	[Password] [varchar](20) NOT NULL,
+	[Email] [varchar](50) NOT NULL,
+	[FirstName] [varchar](30) NOT NULL,
+	[LastName] [varchar](30) NOT NULL,
+	[Avatar] [image] NULL,
+	[JoinDate] [datetime] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[UserID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
