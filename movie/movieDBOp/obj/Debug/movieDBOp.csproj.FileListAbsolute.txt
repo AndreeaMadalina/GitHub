@@ -1,0 +1,8 @@
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\bin\Debug\movieDBOp.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\bin\Debug\movieDBOp.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\bin\Debug\movieBO.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\bin\Debug\movieBO.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\obj\Debug\movieDBOp.csprojResolveAssemblyReference.cache
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\obj\Debug\movieDBOp.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\obj\Debug\movieDBOp.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieDBOp\bin\Debug\movieDBOp.dll.config

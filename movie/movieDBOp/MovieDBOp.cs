@@ -11,7 +11,7 @@ namespace movieDBOp
 {
     public class MovieDBOp
     {
-       private string connectionString;
+        private string connectionString;
         private SqlConnection conn;
 
         public MovieDBOp(string connectionString)

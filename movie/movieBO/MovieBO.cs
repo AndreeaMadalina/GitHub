@@ -17,6 +17,5 @@ namespace movieBO
         public string Country { get; set; }
         public string Language { get; set; }
         public int Runtime { get; set; }
-
     }
 }

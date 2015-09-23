@@ -1,1 +1,12 @@
 C:\Users\Andreea\documents\visual studio 2013\Projects\movie\movie\bin\Debug\movie.exe.config
+C:\Users\Andreea\documents\visual studio 2013\Projects\movie\movie\obj\Debug\movie.Properties.Resources.resources
+C:\Users\Andreea\documents\visual studio 2013\Projects\movie\movie\obj\Debug\movieGUI.csproj.GenerateResource.Cache
+C:\Users\Andreea\documents\visual studio 2013\Projects\movie\movie\obj\Debug\movieGUI.csprojResolveAssemblyReference.cache
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movie.exe
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movie.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movieBO.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movieDBOp.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movieBO.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movieDBOp.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\obj\Debug\movie.exe
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\obj\Debug\movie.pdb

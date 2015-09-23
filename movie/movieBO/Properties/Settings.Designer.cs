@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace movie.Properties {
+namespace movieBO.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -26,7 +26,7 @@ namespace movie.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=ANDREEA\\SQLEXPRESS;Initial Catalog=MovieDatabase;Integrated Security=" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=ANDREEA\\SQLExpress;Initial Catalog=MovieDatabase;Integrated Security=" +
             "True")]
         public string connection {
             get {

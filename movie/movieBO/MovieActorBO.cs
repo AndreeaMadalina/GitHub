@@ -11,6 +11,5 @@ namespace movieBO
         public int MovieActorID { get; set; }
         public int MovieID { get; set; }
         public int ActorID { get; set; }
-   
     }
 }

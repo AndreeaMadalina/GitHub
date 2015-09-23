@@ -1,0 +1,5 @@
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieBO\bin\Debug\movieBO.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieBO\bin\Debug\movieBO.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieBO\obj\Debug\movieBO.dll
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieBO\obj\Debug\movieBO.pdb
+C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movieBO\bin\Debug\movieBO.dll.config

@@ -12,6 +12,5 @@ namespace movieBO
         public double Rating { get; set; }
         public int MovieID { get; set; }
         public int UserID { get; set; }
-
     }
 }

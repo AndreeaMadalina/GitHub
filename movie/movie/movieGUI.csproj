@@ -79,11 +79,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\movieBO\movieBO.csproj">
-      <Project>{85cbe70d-2a0a-4d8d-a421-b7954f8fb6d8}</Project>
+      <Project>{e9abce89-a8d2-4d30-ad70-be3c1c67d471}</Project>
       <Name>movieBO</Name>
     </ProjectReference>
     <ProjectReference Include="..\movieDBOp\movieDBOp.csproj">
-      <Project>{b06e422f-ebbb-400f-9455-5fd548527482}</Project>
+      <Project>{23742303-cebb-4e5e-baab-2893a5227bac}</Project>
       <Name>movieDBOp</Name>
     </ProjectReference>
   </ItemGroup>
