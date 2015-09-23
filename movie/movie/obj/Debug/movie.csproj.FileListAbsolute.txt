@@ -1,0 +1,1 @@
+c:\users\andreea\documents\visual studio 2013\Projects\movie\movie\bin\Debug\movie.exe.config
