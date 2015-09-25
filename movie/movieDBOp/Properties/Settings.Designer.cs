@@ -28,9 +28,9 @@ namespace movieDBOp.Properties {
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=ANDREEA\\SQLEXPRESS;Initial Catalog=MovieDatabase;Integrated Security=" +
             "True")]
-        public string conn {
+        public string connection {
             get {
-                return ((string)(this["conn"]));
+                return ((string)(this["connection"]));
             }
         }
     }

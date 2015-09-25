@@ -10,3 +10,5 @@ C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\mov
 C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\bin\Debug\movieDBOp.pdb
 C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\obj\Debug\movie.exe
 C:\Users\Andreea\Documents\Visual Studio 2013\Projects\movie\movie\obj\Debug\movie.pdb
+C:\Users\Andreea\documents\visual studio 2013\Projects\movie\movie\obj\Debug\movie.LogIn.resources
+C:\Users\Andreea\documents\visual studio 2013\Projects\movie\movie\obj\Debug\movie.Register.resources
